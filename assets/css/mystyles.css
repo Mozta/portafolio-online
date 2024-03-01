@@ -1,0 +1,8 @@
+body{
+    background-color: #F8F7F1;
+}
+
+.myimage{
+    width: 30%;
+    object-fit: cover;
+}
